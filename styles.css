@@ -1,0 +1,14 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+    background-color: rgb(110, 110, 110);
+}
+
+a {
+    color: orange;
+    font: bold;
+    font-family: Geneva;
+}
+
+li {
+    padding: 10px;
+}
